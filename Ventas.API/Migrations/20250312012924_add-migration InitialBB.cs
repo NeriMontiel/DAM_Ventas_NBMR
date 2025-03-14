@@ -5,7 +5,7 @@
 namespace Ventas.API.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialBD : Migration
+    public partial class addmigrationInitialBB : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
